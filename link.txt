@@ -1,0 +1,7 @@
+[header]
+head.bin
+[header]
+
+[objects]
+main.o
+[objects]
