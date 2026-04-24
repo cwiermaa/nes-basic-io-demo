@@ -2,6 +2,12 @@
 
 A small, self-contained demonstration of fundamental input/output systems on the Nintendo Entertainment System (NES), implemented in 6502 assembly.
 
+<p align="left">
+  <img src="screenshots/screenshot_1.png" width="30%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="screenshots/screenshot_2.png" width="30%" />
+</p>
+
 ## Overview
 
 This project was created as a compact, approachable example of how core NES systems work together in practice. It demonstrates:
